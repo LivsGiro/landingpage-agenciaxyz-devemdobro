@@ -9,13 +9,13 @@ Neste projeto foram usadas ferramentas de interatividade e direcionamento, com l
 Gravação da landing page para telas desktop:
 
 <p align="center">
-<img width="460" height="300" type="video/mp4" src="./design/Opera - Agência XYZ - Opera - 29 August 2023.mp4">
+<img width="460" height="300" src="./design/Opera-Agência-XYZ-Opera-29-August-2023.gif">
 </p>
 
 Gravação da landing page para telas mobile:
 
 <p align="center">
-<img width="460" height="300" type="video/mp4" src="./design/Opera - Agência XYZ - mobile.mp4">
+<img width="460" height="300" src="./design/Opera-Agência-XYZ-mobile.gif">
 </p>
 
 
